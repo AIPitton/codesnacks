@@ -1,0 +1,1 @@
+https://docs.amplify.aws/javascript/build-a-backend/auth/set-up-auth/
